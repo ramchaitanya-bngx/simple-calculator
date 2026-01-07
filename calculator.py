@@ -12,7 +12,10 @@ def divide(a, b):
         return "Error: Cannot divide by zero"
     return a / b
 
-print("Simple Calculator")
+# Creating merge conflict and resolving it
+print("Simple Calculator - Main Branch")
+
+
 print("1. Add")
 print("2. Subtract")
 print("3. Multiply")
